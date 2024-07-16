@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+dEnv/
+*.parquet
+*.csv
+*.log
+*.pdf
+ny_taxi_postgres_data/
