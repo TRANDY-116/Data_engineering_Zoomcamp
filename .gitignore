@@ -5,3 +5,4 @@ dEnv/
 *.log
 *.pdf
 ny_taxi_postgres_data/
+.env
